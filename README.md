@@ -1,4 +1,5 @@
 # node_taiko
+
 This guide will help you start up a Taiko node
 
 # Prerequisites
@@ -88,3 +89,4 @@ docker compose logs -f
 Note: You may need to use sudo docker compose logs -f if you are not in the docker group.
 ## 6. Operate the node
 You can find all node operations (eg. stop node, update node, remove node, view logs) in the Node runner manual - https://taiko.xyz/docs/manuals/node-runner-manual. 
+
